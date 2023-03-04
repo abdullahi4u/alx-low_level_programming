@@ -1,1 +1,6 @@
-script that generates the assembly code of a C code and save it in an output file
+# ALX School - 0x00-hello_world
+Compiling very simple programs with gcc. Learning the steps of compilation.
+## New commands / functions used:
+``gcc, printf, puts, putchar``
+## Helpful Links
+
